@@ -1,0 +1,18 @@
+---
+:word: swaziland
+:board: !ruby/object:Board
+  word: swaziland
+  board:
+  - s
+  - _
+  - _
+  - _
+  - i
+  - _
+  - _
+  - _
+  - _
+:life: 6
+? - s
+  - i
+: :guessed_letters
